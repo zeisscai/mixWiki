@@ -10,14 +10,20 @@ ssh -p ?? root@??
 
 *输入password时输入的信息不会有任何显示*
 
+更改换VPS密码
 
+```
+passwd root
+```
+
+*如果重新安装了系统，需要使用下面的命令重置本地存储的密钥。*
 ssh-keygen -R ??
 
 ## 脚本安装SSR
 
 ### 四合一脚本的三个命令
 
-搬瓦工最佳操作系统：centos-6-x86_64-bbr
+搬瓦工最佳操作系统：centos-6-x86_64-bbr，使用系统原生的BBR就可以有比较好的速度。
 
 ```
 wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
