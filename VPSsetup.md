@@ -5,14 +5,13 @@
 ## 登录VPS
 
 ```
-ssh -p 27750 root@172.93.41.158
+ssh -p ?? root@??
 ```
 
 *输入password时输入的信息不会有任何显示*
 
-jNb5cgapyPve
 
-ssh-keygen -R 172.93.41.158
+ssh-keygen -R ??
 
 ## 脚本安装SSR
 
