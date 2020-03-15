@@ -13,6 +13,6 @@ ClientSetup.md 各版本客户端的下载和配置。
 
 Netflix.md     网飞的观看指南
 
-GFW.md    梯子进化史
+GFW.md    梯子进化史(空)
 
-BT&PT.md    影片从下载到播放
+BT&PT.md    影片从下载到播放（空）
