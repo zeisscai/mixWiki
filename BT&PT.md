@@ -29,3 +29,13 @@ RARBG站群 部分站点需要梯子
 
 [豆瓣脚本，加载imdb、烂番茄评分等信息和自动的资源搜索](https://greasyfork.org/en/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD)
 
+配合开源的BT软件：qbittorrent
+
+https://www.qbittorrent.org/
+
+https://github.com/jagannatharjun/qbt-theme 再配合一个黑暗主题darkstylesheet
+
+配合trackerlist,帮助寻找同好 https://trackerslist.com/#/
+用Better public tracker list: (92 trackers)就够了，顺便在选项>高级里：勾选“总是向同级的所有tracker汇报”和“总是向所有等级的tracker汇报”
+
+
