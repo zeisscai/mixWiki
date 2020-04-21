@@ -124,4 +124,17 @@ wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/V2ray.Fun/master/install.sh && bash install.sh
 ```
+## 相关链接
+有的需要配合梯子
 
+[SSR一键安装脚本 (ShadowsocksR一键安装教程)](https://ssr.tools/31)
+
+[搬瓦工方案库存监控页面](https://stock.bwg.net/)
+
+[什么是 CN2 路线？怎么区分搬瓦工 VPS 是否走 CN2 路线](https://www.bandwagonhost.net/2522.html)
+
+[搬瓦工 CN2 GT 方案和 CN2 GIA 方案的区别以及购买选择建议](https://www.bandwagonhost.net/1716.html)
+
+[搬瓦工官网](http://bandwagonhost.com/) 这个和上面几篇文章推荐的网址不一样，这个网址需要梯子。
+
+[Vultr，另外一家VPS商家](vultr.com)
