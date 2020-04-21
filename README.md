@@ -2,8 +2,6 @@
 
 这个库将保存记录我个人的技术笔记。
 
-> 引用的来源有：
-> https://github.com/bigdongdongCLUB/welcome
 
 ## 目录
 
@@ -16,4 +14,8 @@ ClientSetup.md 各版本客户端的下载和配置。
 Netflix.md     网飞的观看指南
 
 GFW.md    梯子进化史(空)
+
+## 友情链接
+
+https://github.com/bigdongdongCLUB/welcome
 
