@@ -2,7 +2,7 @@
 
 ## 什么是BT&PT
 
-推荐观看回形针推出的视频在其中你可以了解到什么是BT种子、tracker、DHT。
+推荐观看回形针推出的视频，在其中你可以了解到什么是BT种子、tracker、DHT。
 
 https://www.bilibili.com/video/BV1R4411w7f3/
 
@@ -18,12 +18,13 @@ http://btbtdy1.com/ 曾经不错，但是多次改版之后，片源重新压制
 ### 国外站主要两个
 
 RARBG站群 部分站点需要梯子
+
 ![rarbg.PNG](https://i.loli.net/2020/04/21/D1oaEn9q2JsABNh.png)
 
 [海盗湾 知名盗版网站](https://piratebay.live/)
 
 ## 食用指南
-两个脚本
+两个脚本,配合tampermonkey使用
 
 [RARBG优化脚本，主要是屏蔽色情内容](https://greasyfork.org/en/scripts/380386-rarbg-advanced-filters-no-porn-edition)
 
