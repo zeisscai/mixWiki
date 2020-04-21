@@ -9,6 +9,10 @@
 
 [BT&PT.md    影片从下载到播放](https://github.com/zeisscai/mixWiki/blob/master/BT%26PT.md)
 
+Router.md  路由器/网络知识
+
+Chrome.md  Chrome 插件/脚本/功能
+
 ClientSetup.md 各版本客户端的下载和配置。
 
 Netflix.md     网飞的观看指南
